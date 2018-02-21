@@ -1,2 +1,3 @@
 # introduction_a_julia
-Introduction au langage Julia
+
+Introduction au langage Julia.
